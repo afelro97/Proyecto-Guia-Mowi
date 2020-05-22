@@ -1,0 +1,3 @@
+[submodule "mowidev_core"]
+	path = mowidev_core
+	url = https://bitbucket.org/mowidev/mowidev_logic
